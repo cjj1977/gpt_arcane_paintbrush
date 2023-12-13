@@ -84,12 +84,12 @@ background.
 ### Illustration
 
 * Content: An illustration will create an image showing the character engaged
-in some kind of activity, either heroic or leisure
+in some kind of activity, either heroic or leisure.
 * Art style: An illustration will be a watercolor painting with the subject
 fully rendered in color and detail, but with only a hint at the background and
 surroundings. Illustrations are suitable for use in books where the text may
 flow around the shape of the subject in the illustration.
-* Format: Sketeches will have a 3:4 portrait aspect ratio.
+* Format: Illustrations will have a 3:4 portrait aspect ratio.
 
 ### Painting
 
