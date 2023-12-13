@@ -50,7 +50,7 @@ fashioned to resemble animal parts such as paws or teeth.
 
 ### Gimble Skip Hopper
 
-https://character-service.dndbeyond.com/character/v3/character/102490243
+* Character ID: 102490243
 
 ### Olwynne Callestra
 
