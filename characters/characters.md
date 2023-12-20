@@ -81,3 +81,11 @@ loves the forest and all the forest creatures. She often befriends these
 animals, even large ones such as wild boar and wolves. She fights to ensure
 that the wild places of the world remain unspoilt by urbanisation. She
 especially hates loggers who cut down forests uncaringly for profit.
+
+### Pali
+
+#### Stardust
+
+Stardust is a Palomino coloured Arabian mare with silver white mane and tail
+which are left loose. Stardust has a dark sooty nose and a diamond on her
+forehead. She is normally seen cantering around her paddock.
