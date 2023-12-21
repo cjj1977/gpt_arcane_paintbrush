@@ -38,6 +38,8 @@ look.
 
 ### Aelar Fernblade
 
+* Character ID: 102480821
+
 Aelar Fernblade is a female Wood Elf with an athletic build, tanned brown skin,
 brown hair in a long braid and green eyes. She looks like she wears dark eye
 shadow and has dark lips. She usually has a serious expression with a piercing
@@ -48,11 +50,13 @@ armour with two elven swords strapped to her back. She wears snake-skin
 knee-length boots over leather trousers. Buckles and clasps on her clothing are
 fashioned to resemble animal parts such as paws or teeth.
 
-### Gimble Skip Hopper
+### Gimble "Skip" Hopper
 
 * Character ID: 102490243
 
 ### Olwynne Callestra
+
+* Character ID: 102742511
 
 Lady Olwynne Callestra is a female High Elf with a petite build, ethereal
 grace, flawless fair skin, blonde hair in an elegant up-do style and blue eyes.
@@ -82,7 +86,9 @@ animals, even large ones such as wild boar and wolves. She fights to ensure
 that the wild places of the world remain unspoilt by urbanisation. She
 especially hates loggers who cut down forests uncaringly for profit.
 
-### Pali
+### Paliadryna "Pali" Vega
+
+* Character ID: 71490990
 
 #### Stardust
 
