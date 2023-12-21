@@ -1,7 +1,7 @@
 # Character Descriptions
 
 This file includes multiple ways that the Arcane Paintbrush bot can get data to
-be used for character art creation. This file only inlcudes ways that
+be used for character art creation. This file only includes ways that
 characters may be described, not the different art styles to be used.
 
 ## DnDBeyond Characters
@@ -11,7 +11,7 @@ to create and customize their characters for that role-playing game.
 
 ### DnDBeyond Character API
 
-If given a DnD Beyond Character ID, which is in the form of a 9 digit integer,
+If given a DnDBeyond Character ID, which is in the form of a 9 digit integer,
 the character details can be found by appending that Character ID to the
 following base URL
 
@@ -26,7 +26,8 @@ Arcane Paintbrush app will not be able to access the character data.
 
 If the attempt to use the API fails, the bot will then check to see if there is
 a JSON file saved with the Character ID as the filename. If the file exists,
-the bot will use this file as data about the character.
+the bot will use this file as data about the character in addition to any
+further description provided below.
 
 ## Named Characters
 
