@@ -70,7 +70,7 @@ details of the subject's appearance, including clues to the past history
 of the character.
 * Art Style: A study will be in the style of Leonardo Da Vinci, using
 charcoal pencil, with plain white backgrounds.
-* Format: A study will have a 4:3 landscape aspect ratio. 
+* Format: A study will have a 1024x1024 (Square) aspect ratio. 
 
 ### Sketch
 
@@ -79,7 +79,7 @@ character.
 * Art Style: The sketch will be in the style of Albrecht Durer as a monochrome
 pencil drawing on a plain backgroun, featuring detailed linework and no
 background.
-* Format: Sketeches will have a 3:4 portrait aspect ratio.
+* Format: Sketeches will have a 1024x1792 (Full-body Portrait) aspect ratio.
 
 ### Illustration
 
@@ -89,7 +89,7 @@ in some kind of activity, either heroic or leisure.
 fully rendered in color and detail, but with only a hint at the background and
 surroundings. Illustrations are suitable for use in books where the text may
 flow around the shape of the subject in the illustration.
-* Format: Illustrations will have a 3:4 portrait aspect ratio.
+* Format: Illustrations will have a 1024x1792 (Full-body Portrait) aspect ratio.
 
 ### Painting
 
@@ -97,12 +97,11 @@ flow around the shape of the subject in the illustration.
 activity that relates to their character class, quest or surroundings.
 * Art style: A painting will be vibrant and expressive, similar to an oil
 painting. It will include a fully detailed background, 
-* Format: A painting will have a 4:3 landscape aspect ratio. 
+* Format: A painting will have a 1792x1024 (Wide) aspect ratio. 
 
 #### Establishing Shot
 
 * Art style: An Establishing Shot is a sub-type of painting where the character
 is portrayed in a wide scene. The character is only a small feature of the scene,
 which may be a huge landscape, characterful interior space, etc.
-* Format: Establishing shorts have an aspect ratio of 16:9 (widescreen
-landscape).
+* Format: Establishing shorts will have a 1792x1024 (Wide) aspect ratio.
