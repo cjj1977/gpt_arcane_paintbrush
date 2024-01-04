@@ -1,0 +1,31 @@
+openapi: 3.0.0
+info:
+  title: Download GPT configuration from GitHub
+  version: 1.0.0
+paths:
+  /cjj1977/gpt_arcane_paintbrush/main/instructions.md:
+    get:
+      summary: Download GPT instructions
+      operationId: getInstructions
+      x-openai-isConsequential: false
+      responses:
+        "200":
+          description: Successful response
+  /cjj1977/gpt_arcane_paintbrush/main/styles.md:
+    get:
+      summary: Download knowledge document describing art styles
+      operationId: getStyles
+      x-openai-isConsequential: false
+      responses:
+        "200":
+          description: Successful response
+  /cjj1977/gpt_arcane_paintbrush/main/characters.md:
+    get:
+      summary: Download knowledge document describing RPG characters
+      operationId: getCharacters
+      x-openai-isConsequential: false
+      responses:
+        "200":
+          description: Successful response
+servers:
+  - url: https://raw.githubusercontent.com
