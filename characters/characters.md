@@ -91,6 +91,14 @@ especially hates loggers who cut down forests uncaringly for profit.
 
 * Character ID: 71490990
 
+Pali is a 19 year old human girl, embarking on a life of adventure as a Paladin,
+wearing the yellow and black livery of the order of chivalrous Knights led by
+her own father.
+
+She has flowing red hair, green eyes and a slender frame. She is usually seen
+on the back of her horse, Stardust, with both Pali and Stardust wearing plate
+armour.
+
 #### Stardust
 
 Stardust is a Palomino coloured Arabian mare with silver white mane and tail
