@@ -19,7 +19,7 @@ paths:
       responses:
         "200":
           description: Successful response
-  /cjj1977/gpt_arcane_paintbrush/main/characters.md:
+  /cjj1977/gpt_arcane_paintbrush/main/characters/characters.md:
     get:
       summary: Download knowledge document describing RPG characters
       operationId: getCharacters
